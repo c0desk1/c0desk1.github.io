@@ -1,7 +1,7 @@
-![c0desk1 for Starlight Themes](.github/assets/banner.jpg)
+![Stradocs for Starlight Themes](.github/assets/banner.jpg)
 
 <p align="center">
-  <a href="https://github.com/bimaakbar-dev/">c0desk1</a> is a custom theme from Starlight developed by <b>Bima Akbar</b>
+  <a href="https://github.com/bimaakbar-dev/">Stradocs</a> is a custom theme from Starlight developed by <b>Bima Akbar</b>
   <br />
   inspired by the design of <strong>Vercel</strong> and <strong>Fumadocs</strong>.
   <br/><br/>
